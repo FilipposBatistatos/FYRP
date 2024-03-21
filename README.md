@@ -12,7 +12,7 @@ Part | QTY| Price | Provider |
 Raspberry Pi 4 (or newer) | 2 | $62.00 | https://core-electronics.com.au/raspberry-pi-4-model-b-1gb.html |
 SD Card | 2 | $8.00 | https://www.jbhifi.com.au/products/samsung-evo-plus-64gb-micro-sd-card-2021 | 
 RPi WiFi HaLow Boards | 2 | $140.71 | https://core-electronics.com.au/alfa-network-wifi-halow-hat.html | 
-WiFi Halow Antenna (950mhz)| 2 | $16.85 | https://core-electronics.com.au/wifi-halow-antenna-sma-915mhz.html | 
+WiFi Halow Antenna (950mhz)| 2 | $16.85 | https://core-electronics.com.au/wifi-halow-antenna-sma-915mhz.html  or https://www.digikey.com.au/en/products/detail/sparkfun-electronics/WRL-20115/16624640?utm_adgroup=General&utm_term=&productid=16624640&gad_source=1| 
 RPi Camera | 1 | $33.02 | https://core-electronics.com.au/raspberry-pi-camera-board-v2-8-megapixels-38552.html | 
 
 __Misc__ 
